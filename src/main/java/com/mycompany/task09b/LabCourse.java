@@ -11,7 +11,7 @@ package com.mycompany.task09b;
 public class LabCourse extends Course {
 
     public LabCourse(String name) {
-        super(name); // Constructor Chaining
+        super(name); 
     }
 
     @Override
